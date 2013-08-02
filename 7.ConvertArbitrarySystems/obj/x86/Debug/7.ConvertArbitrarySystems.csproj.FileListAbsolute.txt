@@ -1,0 +1,5 @@
+c:\documents and settings\ceci\my documents\visual studio 2010\Projects\4.NumeralSystems\7.ConvertArbitrarySystems\bin\Debug\7.ConvertArbitrarySystems.exe
+c:\documents and settings\ceci\my documents\visual studio 2010\Projects\4.NumeralSystems\7.ConvertArbitrarySystems\bin\Debug\7.ConvertArbitrarySystems.pdb
+c:\documents and settings\ceci\my documents\visual studio 2010\Projects\4.NumeralSystems\7.ConvertArbitrarySystems\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\ceci\my documents\visual studio 2010\Projects\4.NumeralSystems\7.ConvertArbitrarySystems\obj\x86\Debug\7.ConvertArbitrarySystems.exe
+c:\documents and settings\ceci\my documents\visual studio 2010\Projects\4.NumeralSystems\7.ConvertArbitrarySystems\obj\x86\Debug\7.ConvertArbitrarySystems.pdb
