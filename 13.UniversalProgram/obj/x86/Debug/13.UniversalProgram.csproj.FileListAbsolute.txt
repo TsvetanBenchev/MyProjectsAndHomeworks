@@ -1,0 +1,5 @@
+C:\Documents and Settings\Ceci\my documents\visual studio 2010\Projects\3.Methods\13.UniversalProgram\bin\Debug\13.UniversalProgram.exe
+C:\Documents and Settings\Ceci\my documents\visual studio 2010\Projects\3.Methods\13.UniversalProgram\bin\Debug\13.UniversalProgram.pdb
+C:\Documents and Settings\Ceci\my documents\visual studio 2010\Projects\3.Methods\13.UniversalProgram\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ceci\my documents\visual studio 2010\Projects\3.Methods\13.UniversalProgram\obj\x86\Debug\13.UniversalProgram.exe
+C:\Documents and Settings\Ceci\my documents\visual studio 2010\Projects\3.Methods\13.UniversalProgram\obj\x86\Debug\13.UniversalProgram.pdb
